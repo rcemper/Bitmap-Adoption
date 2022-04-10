@@ -1,9 +1,3 @@
- ~~~
- This is a coding example working on IRIS 2020.2 and on Caché 2018.1.3 
- It will not be kept in sync with new versions      
- It is also NOT serviced by InterSystems Support !   
-~~~ 
-
 This is a running example of the article in DC on [Bitmap Adoption](https://community.intersystems.com/post/adopted-bitmap)   
 
 The full background story is found there.  
@@ -65,4 +59,12 @@ __demo3__
 
 ~~~
 
-[Article in DC](https://community.intersystems.com/post/adopted-bitmap)
+[Article in DC](https://community.intersystems.com/post/adopted-bitmap)   
+
+[Demo Server SMP](https://bitmap-adoption.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
+[Demo Server WebTerminal](https://bitmap-adoption.demo.community.intersystems.com/terminal/)    
+        
+**Code Quality**   
+<img width="85%" src="
+https://openexchange.intersystems.com/mp/img/packages/671/screenshots/4bh7tyapellnv0cjgw34riapcfo.jpg
+">
