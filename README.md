@@ -60,9 +60,3 @@ __demo3__
 ~~~
 
 [Article in DC](https://community.intersystems.com/post/adopted-bitmap)   
-
-[Demo Server SMP](https://bitmap-adoption.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://bitmap-adoption.demo.community.intersystems.com/terminal/)    
-        
-**Code Quality**   
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1761/screenshots/uhbkv4remosd7onpyaxqdozlz6k.jpg">
